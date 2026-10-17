@@ -1,7 +1,3 @@
-# power-bi-executive-dashboard
-End-to-end PowerBI dashboard to analyzing sales and  performance metrics.
-
-
 # Executive Summary Dashboard - Power BI
 
 ## 📌 Project Overview
