@@ -6,7 +6,7 @@ This project is an end-to-end Business Intelligence solution built using Microso
 ---
 
 ## 📊 Dashboard Preview
-![Executive Summary Dashboard](IMG-20261017-WA0010.jpg)
+![Executive Summary Dashboard]
 
 ---
 
